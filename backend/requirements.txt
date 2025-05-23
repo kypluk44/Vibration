@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+redis
+asyncpg # For PostgreSQL, if used later
+# langgraph - will be added when specific LangGraph code is integrated
+# pydantic[email] - for email validation if needed
